@@ -1,0 +1,4 @@
+Distance = int(input("Distance:"))
+Time = int(input("Time:"))
+Velocity = int(Distance/Time)
+print(Velocity, "Km/h")
